@@ -11,6 +11,19 @@ def intro():
 **
 ** To quit at any time, type "quit" **
 **************************************
+
+Items :-
+----------
+Cookies
+Salmon
+Steak
+Meat Tornado
+Spring Rolls
+
+
+***********************************
+** What would you like to order? **
+***********************************
 ''')
 
 def Snaks():
